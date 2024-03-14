@@ -5,8 +5,8 @@
 
 ## Experiences:
 > **First Real Implementation:**
-  - [Textiltec.es](https://textiltec.es): A completed and functional store,blog and landing page for TextilTec, a business based in Spain.
-  - [Radher.com](https://radher-xi.vercel.app/): My personal musical project inspired on lacuerda.net
+  - [Textiltec.es](https://textiltec.es): (this repository is private) A completed and functional store,blog and landing page for TextilTec, a business based in Spain.
+  - [Radher.com](https://radher-xi.vercel.app/): (this repository is private) My personal musical project inspired on lacuerda.net
 
 ## Learnings and Knowledge:
 
