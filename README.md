@@ -6,6 +6,7 @@
 ## Experiences:
 > **First Real Implementation:**
   - [Textiltec.es](https://textiltec.es): (this repository is private) A completed and functional store,blog and landing page for TextilTec, a business based in Spain.
+  - [cleaningmania.com](https://cleaningmania.com): (this repository is private) a website for cleaning mania an cleaning services based in miami, FL.
   - [Radher.com](https://radher-xi.vercel.app/): (this repository is private) My personal musical project inspired on lacuerda.net
 
 ## Learnings and Knowledge:
@@ -31,7 +32,7 @@
 
 - **Web Design:**
   - React
-  - Skills in Figma for design.
+  - Skills in Figma and canva for design.
   - Api consume
   - Knowledge of styling with CSS, Tailwind CSS.
 
