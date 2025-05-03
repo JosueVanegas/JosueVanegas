@@ -9,7 +9,7 @@
   - [cleaningmania.com](https://cleaningmania.com): (this repository is private) a website for cleaning mania an cleaning services based in miami, FL.
   - [thegossipcave.com](https://thegossipcave.com): (this repository is private) My first complete blog with ads with adsense 
   - [Radher.com](https://radher-xi.vercel.app/): (this repository is private) My personal musical project inspired on lacuerda.net
-
+  - [uniformania.com](https://uniformania.com): (this repository is private) My Complete & functional Ecommer 
 ## Learnings and Knowledge:
 
 - **Version Control:**
@@ -45,4 +45,4 @@
 ## Additional Knowledge:
   - Electronics Technician.
   - SEO
-  - Worked with Arduino using C and C++ languages.
+  - Arduino using C and C++ languages.
