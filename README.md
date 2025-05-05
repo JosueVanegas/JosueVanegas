@@ -4,11 +4,10 @@
 > Hello! I'm Josue Vanegas, a junior developer passionate about programming. Over the past 3 years, I have immersed myself in a variety of technologies, experimenting, learning, and constantly making mistakes in order to improve more and more.
 
 ## Experiences:
-> **First Real Implementation:**
+> **Real Implementations:**
   - [Textiltec.es](https://textiltec.es): (this repository is private) A completed and functional store,blog and landing page for TextilTec, a business based in Spain.
   - [cleaningmania.com](https://cleaningmania.com): (this repository is private) a website for cleaning mania an cleaning services based in miami, FL.
   - [thegossipcave.com](https://thegossipcave.com): (this repository is private) My first complete blog with ads with adsense 
-  - [Radher.com](https://radher-xi.vercel.app/): (this repository is private) My personal musical project inspired on lacuerda.net
   - [uniformania.com](https://uniformania.com): (this repository is private) My Complete & functional Ecommer 
 ## Learnings and Knowledge:
 
