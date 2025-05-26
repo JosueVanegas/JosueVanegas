@@ -8,7 +8,7 @@
   - [Textiltec.es](https://textiltec.es): (this repository is private) A completed and functional store,blog and landing page for TextilTec, a business based in Spain.
   - [cleaningmania.com](https://cleaningmania.com): (this repository is private) a website for cleaning mania an cleaning services based in miami, FL.
   - [thegossipcave.com](https://thegossipcave.com): (this repository is private) My first complete blog with ads with adsense 
-  - [uniformania.com](https://uniformania.com): (this repository is private) My Complete & functional Ecommer 
+  - [uniformania.com](https://uniformania.com): (this repository is private) a website for Client in spain Complete & functional Ecommer 
 ## Learnings and Knowledge:
 
 - **Version Control:**
@@ -34,6 +34,7 @@
   - React
   - Skills in Figma and canva for design.
   - Api consume
+  - Amazon S3
   - Knowledge of styling with CSS, Tailwind CSS.
 
 - **Development:**
