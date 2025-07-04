@@ -1,7 +1,7 @@
 ![Coding Journey](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg)
 
-# Hey there! 👨‍💻
-> Hello! I'm Josue, a junior developer passionate about programming. Over the past 5 years, I have immersed myself in a variety of technologies, experimenting, learning, and constantly making mistakes in order to improve more and more.
+# Hey! 👨‍💻
+> I'm Josue, a  developer passionate about programming. Over the past 5 years, I have immersed myself in a variety of technologies, experimenting, learning, and constantly making mistakes in order to improve more and more.
 
 ## Experiences:
 > **Real Implementations:**
@@ -16,7 +16,7 @@
   - Git and GitHub.
 
 - **Programming Languages:**
-  - Junior to mid-level knowledge in JavaScript, TypeScript, and Java.
+  - mid-level knowledge in JavaScript, TypeScript.
   - Mid-level knowledge in C#.
   - Familiar with React for building dynamic user interfaces.
 
