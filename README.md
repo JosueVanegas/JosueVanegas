@@ -1,13 +1,13 @@
-![Coding Journey](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=600)
+![Coding Journey](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg)
 
 # Hey there! 👨‍💻
-> Hello! I'm Josue Vanegas, a junior developer passionate about programming. Over the past 3 years, I have immersed myself in a variety of technologies, experimenting, learning, and constantly making mistakes in order to improve more and more.
+> Hello! I'm Josue, a junior developer passionate about programming. Over the past 5 years, I have immersed myself in a variety of technologies, experimenting, learning, and constantly making mistakes in order to improve more and more.
 
 ## Experiences:
 > **Real Implementations:**
-  - [kioko.es](https://kioko.es): (this repository is private) My business website its not complete yet.
-  - [Textiltec.es](https://textiltec.es): (this repository is private) A completed and functional store,blog and landing page for TextilTec, a business based in Spain.
-  - [cleaningmania.com](https://cleaningmania.com): (this repository is private) a website for cleaning mania an cleaning services based in miami, FL.
+  - [kioko.es](https://kioko.es): (this repository is private) Ecommers for kioko spain.
+  - [Textiltec.es](https://textiltec.es): (this repository is private) A completed landing page for TextilTec, a business based in Spain.
+  - [cleaningmania.com](https://cleaningmania.com): (this repository is private) A website for cleaning mania an cleaning services based in miami, FL.
   - [thegossipcave.com](https://thegossipcave.com): (this repository is private) My first complete blog with ads with adsense 
   - [uniformania.com](https://uniformania.com): (this repository is private) a website for Client in spain Complete & functional Ecommer 
 ## Learnings and Knowledge:
