@@ -8,7 +8,7 @@
   - [kioko.es](https://kioko.es): (this repository is private) Ecommers for kioko spain.
   - [Textiltec.es](https://textiltec.es): (this repository is private) A completed landing page for TextilTec, a business based in Spain.
   - [cleaningmania.com](https://cleaningmania.com): (this repository is private) A website for cleaning mania an cleaning services based in miami, FL.
-  - [thegossipcave.com](https://thegossipcave.com): (this repository is private) My first complete blog with ads with adsense 
+  - [thegossipcave.com](https://thegossipcave.vercel.app): (this repository is private) My first complete blog with ads with adsense 
   - [uniformania.com](https://uniformania.com): (this repository is private) a website for Client in spain Complete & functional Ecommer 
 ## Learnings and Knowledge:
 
