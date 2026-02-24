@@ -1,7 +1,7 @@
 ![Coding Journey](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg)
 
 # Hey! 👨‍💻
-> I'm Josue, a  developer passionate about programming. Over the past 5 years, I have immersed myself in a variety of technologies, experimenting, learning, and constantly making mistakes in order to improve more and more.
+> I'm Josue, a  developer passionate about programming. Over the past 7 years, I have immersed myself in a variety of technologies, experimenting, learning, and constantly making mistakes in order to improve more and more.
 
 ## Experiences:
 > **Real Implementations:**
@@ -9,6 +9,7 @@
   - [Textiltec.es](https://textiltec.es): (this repository is private) A completed landing page for TextilTec, a business based in Spain.
   - [cleaningmania.com](https://cleaningmania.com): (this repository is private) A website for cleaning mania an cleaning services based in miami, FL.
   - [clinicaergodent.es](https://clinicaergodent.es): (this repository is private) A website for a dental clinic based in Spain. 
+
 ## Learnings and Knowledge:
 
 - **Version Control:**
@@ -18,6 +19,7 @@
   - mid-level knowledge in JavaScript, TypeScript.
   - Mid-level knowledge in C#.
   - Familiar with React for building dynamic user interfaces.
+  - Mid-level Knowledge in Php
 
 - **SQL and NoSQL Databases:**
   - MySQL.
@@ -29,6 +31,7 @@
   - Express
   - Nextjs
   - Nestjs
+  - Laravel 
 
 - **Web Design:**
   - React
