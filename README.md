@@ -98,7 +98,24 @@ Digital platform for a Christian community with 5 ministries across 9 European l
 
 ---
 
-### 5. **[Ergodent.es](https://ergodent.es)** — Dental Clinic
+### 5. **[Ovnimizer](https://ovnimizer.com)** — Browser-Based Image Optimizer
+Web tool for image optimization running 100% in-browser with zero server uploads.
+- **Format conversion** (WebP, AVIF, JPG, PNG, ICO, GIF, BMP, SVG)
+- **Real-time compression & resizing** with quality presets
+- **Before/after preview** with interactive slider
+- **Batch processing** — apply settings to all images at once
+- **Drag & drop + URL import** for quick workflow
+- **Download individually or as ZIP**
+- **Multi-language support** (7 languages: EN, ES, PT, DE, IT, RU, JA)
+- **Complete privacy** — all processing stays on device (Web Workers)
+
+**Tech Stack**: Next.js 16, React 19, TypeScript, Tailwind CSS, next-intl
+
+**Achievement**: Full client-side image processing without server overhead, seamless multi-language UX.
+
+---
+
+### 6. **[Ergodent.es](https://ergodent.es)** — Dental Clinic
 Corporate website for patient acquisition.
 - **Brand identity redesign**
 - **SEO-optimized** for local positioning
@@ -109,7 +126,7 @@ Corporate website for patient acquisition.
 
 ---
 
-### 6. **[Textiltec.es](https://textiltec.es)** — Industrial E-Commerce
+### 7. **[Textiltec.es](https://textiltec.es)** — Industrial E-Commerce
 Online sales platform for industrial textiles company.
 - **Dynamic product catalog**
 - **Integrated payment gateway**
@@ -120,7 +137,7 @@ Online sales platform for industrial textiles company.
 
 ---
 
-### 7. **[CleaningMania.com](https://cleaningmania.com)** — Cleaning Services (Miami)
+### 8. **[CleaningMania.com](https://cleaningmania.com)** — Cleaning Services (Miami)
 Landing page + contact platform for cleaning services.
 - **WhatsApp integration** for direct contact
 - **Service request form**
@@ -130,7 +147,7 @@ Landing page + contact platform for cleaning services.
 
 ---
 
-### 8. **[ZentraPets.com](https://zentrapets.com)** — Pet Wellness Brand (USA)
+### 9. **[ZentraPets.com](https://zentrapets.com)** — Pet Wellness Brand (USA)
 B2B landing page for US retail market entry.
 - **Retail-ready branding**
 - **6 SKUs presented**
@@ -140,7 +157,7 @@ B2B landing page for US retail market entry.
 
 ---
 
-### 9. **🚧 +3 In Development** 
+### 10. **🚧 +3 In Development** 
 
 ---
 
@@ -157,7 +174,7 @@ B2B landing page for US retail market entry.
 
 - **🥇 1st Place** — University Programming Competition
 - **🎯 Participant** — National Hackathon
-- **📱 10 projects** in professional portfolio (10 live, 3 in development)
+- **📱 13 projects** in professional portfolio (10 live, 3 in development)
 - **🚀 Built proprietary platform** (KIOKO) from the ground up
 
 ---
@@ -176,14 +193,4 @@ B2B landing page for US retail market entry.
 > I believe in **clean code**, **no shortcuts**, and **measurable results**. I prefer building from scratch over relying on pre-made templates — understanding every line of what I ship matters to me.
 ---
 
-<div align="center">
-
-**Interested in working together?**
-
-[📬 Tell Me About Your Project](https://kioko.es/briefing) | [🔗 View Full Portfolio](https://kioko.es/portfolio) | [💼 Connect on LinkedIn](https://www.linkedin.com/in/josue-vanegas-43006327a/)
-
-</div>
-
----
-
-*Updated: 2026 • Madrid, Spain*
+<div align="center"></div>
